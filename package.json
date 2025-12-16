@@ -1,0 +1,12 @@
+{
+  "name": "redis-clone",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node --watch src/server.js",
+    "test": "node tests/server.test.js"
+  },
+  "keywords": [],
+  "author": "garima mittal",
+  "license": "MIT"
+}
